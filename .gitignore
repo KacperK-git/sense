@@ -1,0 +1,6 @@
+data_archive/
+__pycache__/
+*.pyc
+error.log
+.idea/
+.vscode/
