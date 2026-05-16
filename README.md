@@ -93,3 +93,8 @@ Navigate with **LEFT / RIGHT**, scroll with **UP / DOWN**, select with **OK**.
 - Burn‑in and IAQ algorithm are simplified
 - No remote dashboard – data is only local
 - Wiring is not yet documented as a schematic
+
+## Acknowledgements
+
+This project uses the Waveshare LCD library (`lib/`) which is licensed under the MIT License.
+See the [NOTICE](NOTICE) file for details.
